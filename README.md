@@ -6,9 +6,15 @@ An end-to-end interactive Power BI dashboard designed to evaluate revenue growth
 
 ## 📸 Dashboard Previews
 
-![Executive Overview](Screenshots/Executive_Overview.png)
-![Performance Analysis](Screenshots/Performance_Analysis.png)
-![Regional Insights](Screenshots/Regional_Merchant_Insights.png)
+### 1. Executive Overview
+![Executive Overview](Screenshots/Screenshot%202026-08-22%20192001.png)
+
+### 2. Performance & Analysis
+![Performance Analysis](Screenshots/Screenshot%202026-08-22%20192038.png)
+
+### 3. Regional & Merchant Insights
+![Regional Insights](Screenshots/Screenshot%202026-08-22%20192055.png)
+
 ---
 
 ## 🔍 Key Features & Business Insights
@@ -39,5 +45,5 @@ The dataset used in this project is synthetically generated strictly for educati
 ## 👤 Author
 
 * **Abd Elaziz Ahmed Abd Elaziz** - Data Analyst
-* **LinkedIn:** [ضع رابط حسابك هنا]
+* **LinkedIn:** [Insert Your LinkedIn Profile Link Here]
 * **Email:** abdelazizahmed.da311@gmail.com
