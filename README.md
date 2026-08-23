@@ -45,5 +45,5 @@ The dataset used in this project is synthetically generated strictly for educati
 ## 👤 Author
 
 * **Abd Elaziz Ahmed Abd Elaziz** - Data Analyst
-* **LinkedIn:** [Insert Your LinkedIn Profile Link Here]
+* **LinkedIn:** [www.linkedin.com/in/abd-elaziz-ahmed-8310b540b]
 * **Email:** abdelazizahmed.da311@gmail.com
