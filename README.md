@@ -6,15 +6,9 @@ An end-to-end interactive Power BI dashboard designed to evaluate revenue growth
 
 ## 📸 Dashboard Previews
 
-### 1. Executive Overview
 ![Executive Overview](Screenshots/Executive_Overview.png)
-
-### 2. Performance & Analysis
 ![Performance Analysis](Screenshots/Performance_Analysis.png)
-
-### 3. Regional & Merchant Insights
 ![Regional Insights](Screenshots/Regional_Merchant_Insights.png)
-
 ---
 
 ## 🔍 Key Features & Business Insights
